@@ -1,0 +1,23 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "test bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "bot",
+    "framework"
+  ],
+  "author": "khang",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.10.2",
+    "restify": "^6.0.1"
+  }
+}
